@@ -1,0 +1,2 @@
+pytest
+-egit+https://github.com/sergeychipiga/pom.git@master#egg=pom
